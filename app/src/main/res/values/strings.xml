@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Messenger Plus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gesture_manager">Gesture Manager</string>
+    <string name="title_activity_gesture_manager">Gesture Manager</string>
+    <string name="title_activity_create_new_gestue">Create New Gestue</string>
+    <string name="title_activity_converstation">Converstation</string>
+    <string name="title_activity_creat_new_message">Creat New Message </string>
+</resources>
